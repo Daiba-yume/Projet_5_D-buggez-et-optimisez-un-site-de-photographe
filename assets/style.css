@@ -351,3 +351,9 @@ input[type="submit"] {
     width: 80%;
   }
 }
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: max-content;
+  }
+}
