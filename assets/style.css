@@ -96,13 +96,13 @@ body {
 .gallery .nav {
   justify-content: center;
 }
-.nav-pills .nav-link.active,
-.nav-pills .show > .nav-link {
+.nav-pills .nav-link.active-tag {
   color: #fff;
-  background-color: #5e5a27;
+  background-color: #beb45a;
   border-radius: 0;
 }
 .nav-pills .nav-link {
+  cursor: pointer;
   color: #000;
 }
 .item-column {
@@ -349,11 +349,5 @@ input[type="submit"] {
   }
   .picture {
     width: 80%;
-  }
-}
-
-@media (min-width: 576px) {
-  .modal-dialog {
-    max-width: max-content;
   }
 }
