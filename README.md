@@ -42,4 +42,4 @@ Daïba Yume :purple_heart:
 
 ## 💮 Demo
 
-[https://project-14-wh.vercel.app/](https://daiba-yume.github.io/Projet_5_D-buggez-et-optimisez-un-site-de-photographe/)
+[Nina Carducci](https://daiba-yume.github.io/Projet_5_D-buggez-et-optimisez-un-site-de-photographe/)
