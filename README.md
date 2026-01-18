@@ -1,6 +1,12 @@
-# Projet 5
+# Nina Carducci - Projet OpenClassrooms
 
 Cinquième projet de la formation OpenClassroom : Débuggez et optimisez un site de photographe
+
+## Technologies utilisées
+
+- ![Lighthouse](https://img.shields.io/badge/
+- ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-00AEEF?logo=wave&logoColor=white)
+
 
 ## Mission
 
@@ -21,3 +27,19 @@ Cinquième projet de la formation OpenClassroom : Débuggez et optimisez un site
 - Optimiser les performances d’un site web
 - Débugger un site web grâce aux Chrome DevTools
 - Rédiger un cahier de recette pour tester un site
+
+---
+
+## Auteur
+
+Daïba Yume :purple_heart:
+
+## 📄 Licence
+
+📝 Projet pédagogique — OpenClassrooms
+
+---
+
+## 💮 Demo
+
+[https://project-14-wh.vercel.app/](https://daiba-yume.github.io/Projet_5_D-buggez-et-optimisez-un-site-de-photographe/)
