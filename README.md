@@ -4,7 +4,7 @@ Cinquième projet de la formation OpenClassroom : Débuggez et optimisez un site
 
 ## Technologies utilisées
 
-- ![Lighthouse](https://img.shields.io/badge/
+- ![Lighthouse](https://img.shields.io/badge/Lighthouse-Performance-F44B21?logo=googlelighthouse&logoColor=white)
 - ![WAVE](https://img.shields.io/badge/WAVE-Accessibility-00AEEF?logo=wave&logoColor=white)
 
 
